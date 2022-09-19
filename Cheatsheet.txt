@@ -1,0 +1,2 @@
+mfc90.dll loading issue - Run `winetricks vcrun2008`
+mfc42.dll loading issue - Run `winetricks mfc42`
